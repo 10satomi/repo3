@@ -3,3 +3,5 @@
 321312
 312312
 www
+add some contact to hello.txt
+123123123
